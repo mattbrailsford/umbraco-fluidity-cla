@@ -18,4 +18,4 @@ This page contains a list of people who have made source code contributions to t
 - [ ] Paul Seal
 - [ ] Stephan Lonntorp
 - [x] Thomas Bleijendaal
-- [ ] Thomas Morris
+- [x] Thomas Morris
