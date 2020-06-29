@@ -8,7 +8,7 @@ Due to this change however, it will mean a change in license from Apache 2.0 to 
 
 ## How to sign
 
-This page contains a list of people who have made source code contributions to the Fluidity project where that contribution is still present in the v8 codebase. To sign the agreement, we request developers make a pull request against this [README](README.md) file, checking off their name from the list below by adding an `x` between the square brackets by their name and submitting this change as a PR. During the PR process we will use [cla-assistant.io](https://cla-assistant.io/) to capture your approval of the CLA. 
+This page contains a list of people who have made source code contributions to the Fluidity project where that contribution is still present in the v8 codebase. To sign the agreement, we request developers make a change to this [README](README.md) file, checking off their name from the list below by adding an `x` between the square brackets by their name and submitting this change as a PR. During the PR process we will use [cla-assistant.io](https://cla-assistant.io/) to capture your approval of the CLA. 
 
 ## Fluidity Contributors
 - [ ] Chris Docherty
