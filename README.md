@@ -1,4 +1,4 @@
-# Umbraco Fluidity Contrib
+# Umbraco Fluidity - Contributor License Agreement
 
 The purpose of this repository is to seek retrospective signing of a CLA for past contributors to the Fluidity project. For Umbraco v8, in order to make the Fluidity project maintainable we are looking to move to a commercial + "source available" licensing approach where use of the product will require a license file, but we will look to keep the vast majority of the source code available so that developers can still contribute or build custom solutions where required.
 
