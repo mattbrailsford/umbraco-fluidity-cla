@@ -17,5 +17,5 @@ This page contains a list of people who have made source code contributions to t
 - [ ] Mario Lopez
 - [ ] Paul Seal
 - [ ] Stephan Lonntorp
-- [ ] Thomas Bleijendal
+- [ ] Thomas Bleijendaal
 - [ ] Thomas Morris
