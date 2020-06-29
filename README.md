@@ -9,10 +9,11 @@ Due to this change however, it will mean a change in license from Apache 2.0 to 
 This page will contain a list of people who have made source code contributions to the Fluidity project where that contribution is still present in the v8 codebase. To sign the agreement, we request developers make a pull request against this [README](README.md) file, checking off their name from the list below and submitting this change as a PR. During the PR process we will use [cla-assistant.io](https://cla-assistant.io/) to capture your approval of the CLA. 
 
 ## Fluidity Contributors
-- [ ] Thomas Moriris
-- [ ] Thomas Bleijendal
-- [ ] David Peck
-- [ ] Paul Seal
-- [ ] Mario Lopez
 - [ ] Chris Docherty
+- [ ] David Peck
+- [ ] Jon Humphrey
+- [ ] Mario Lopez
+- [ ] Paul Seal
 - [ ] Stephan Lonntorp
+- [ ] Thomas Bleijendal
+- [ ] Thomas Morris
