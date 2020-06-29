@@ -16,6 +16,6 @@ This page contains a list of people who have made source code contributions to t
 - [ ] Jon Humphrey
 - [ ] Mario Lopez
 - [ ] Paul Seal
-- [ ] Stephan Lonntorp
+- [x] Stephan Lonntorp
 - [x] Thomas Bleijendaal
 - [x] Thomas Morris
