@@ -12,7 +12,7 @@ This page contains a list of people who have made source code contributions to t
 
 ## Fluidity Contributors
 - [x] Chris Docherty
-- [ ] David Peck
+- [x] David Peck
 - [ ] Jon Humphrey
 - [ ] Mario Lopez
 - [ ] Paul Seal
